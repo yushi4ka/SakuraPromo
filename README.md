@@ -29,4 +29,16 @@ Please install it
 | spromo **delete**    |  `sakurapromo.admin`     | Delete promocod                                       |
 | spromo **edit**      |  `sakurapromo.admin`     | Edit promocod                                         |
 
+<string> ===--------------------------------------------------------=== </string>
+
+Syntax
+
+|      Syntax            |  Description                     |
+|------------------------|----------------------------------|
+| **[msg]**              | Send message to user             |
+| **[console]**          | Use command via console          |
+| **[command]**          | Use command on behalf of player  |
+| **[give]**             | Give items to the player         |
+| **[lp]**               | Use LuckPerms commands           |
+
 </div>
